@@ -1,9 +1,135 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T08:43:27.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.5.1" etag="USXDSicXeNFlLXZkNaKg" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T08:56:40.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wsdWHlX-urqx0GLtYjnW" version="21.5.1" type="github">
   <diagram name="第 1 页" id="13AQM2iKJFj0NKGXM6GZ">
-    <mxGraphModel>
+    <mxGraphModel dx="2333" dy="1202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="a-DUArsUTMtOnpeUms0M-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-1" target="a-DUArsUTMtOnpeUms0M-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-1" target="a-DUArsUTMtOnpeUms0M-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-1" target="a-DUArsUTMtOnpeUms0M-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-1" target="a-DUArsUTMtOnpeUms0M-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-1" target="a-DUArsUTMtOnpeUms0M-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;负载均衡&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-2" target="a-DUArsUTMtOnpeUms0M-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;应用服务网关&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="440" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;用户界面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Web Server1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="660" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Web Server2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="660" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Web Server3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="660" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Web Server4&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="657" y="660" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;应用服务器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="800" width="166" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-8" target="a-DUArsUTMtOnpeUms0M-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439" y="783" as="sourcePoint" />
+            <mxPoint x="489" y="733" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-8" target="a-DUArsUTMtOnpeUms0M-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="434" y="800" as="sourcePoint" />
+            <mxPoint x="545" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.445;entryY=1.043;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-8" target="a-DUArsUTMtOnpeUms0M-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="810" as="sourcePoint" />
+            <mxPoint x="728" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="a-DUArsUTMtOnpeUms0M-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="434" y="800" as="sourcePoint" />
+            <mxPoint x="545" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-23" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;业务逻辑服务器1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="910" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-25" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;业务逻辑服务器1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="910" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-26" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;业务逻辑服务器1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="910" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-27" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;业务逻辑服务器1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="910" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-8" target="a-DUArsUTMtOnpeUms0M-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="443" y="810" as="sourcePoint" />
+            <mxPoint x="126" y="733" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-8" target="a-DUArsUTMtOnpeUms0M-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="443" y="860" as="sourcePoint" />
+            <mxPoint x="135" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-8" target="a-DUArsUTMtOnpeUms0M-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="443" y="860" as="sourcePoint" />
+            <mxPoint x="360" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-8" target="a-DUArsUTMtOnpeUms0M-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="890" as="sourcePoint" />
+            <mxPoint x="594" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-32" target="a-DUArsUTMtOnpeUms0M-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-32" target="a-DUArsUTMtOnpeUms0M-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-32" target="a-DUArsUTMtOnpeUms0M-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-32" target="a-DUArsUTMtOnpeUms0M-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-32" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;数据库集群&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1030" width="166" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-33" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;文件存储系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1160" width="166" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="a-DUArsUTMtOnpeUms0M-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="a-DUArsUTMtOnpeUms0M-33" target="a-DUArsUTMtOnpeUms0M-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="443" y="860" as="sourcePoint" />
+            <mxPoint x="360" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
